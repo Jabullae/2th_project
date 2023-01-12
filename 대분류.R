@@ -4,7 +4,7 @@ dis
 View(dis)
 str(dis)
 
-
+,sjdfbkuxdgjbkjdfgb
 
 
 # 상품분류명을 중복을 제거하고 가져오기
